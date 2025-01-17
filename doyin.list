@@ -1,0 +1,15 @@
+# 规则名称: 小红书
+# 规则统计: 4
+DOMAIN,lf3-static.bytednsdoc.com,📸抖音
+DOMAIN,v5-dy-o-abtest.zjcdn.com,📸抖音
+DOMAIN-SUFFIX,amemv.com,📸抖音
+DOMAIN-SUFFIX,douyincdn.com,📸抖音
+DOMAIN-SUFFIX,douyinpic.com,📸抖音
+DOMAIN-SUFFIX,douyinstatic.com,📸抖音
+DOMAIN-SUFFIX,douyinvod.com,📸抖音
+DOMAIN-SUFFIX,idouyinvod.com,📸抖音
+DOMAIN-SUFFIX,ixigua.com,📸抖音
+DOMAIN-SUFFIX,ixiguavideo.com,📸抖音
+DOMAIN-SUFFIX,pstatp.com,📸抖音
+DOMAIN-SUFFIX,snssdk.com,📸抖音
+DOMAIN-SUFFIX,toutiao.com,📸抖音
