@@ -1,1 +1,6 @@
-e
+# 规则名称: 虚拟币平台
+# 规则统计: 4
+DOMAIN,bydfi.zendesk.com,💰bydfi
+DOMAIN-SUFFIX,bydfi888.com,💰bydfi
+DOMAIN-SUFFIX,bydfi666.com,💰bydfi
+DOMAIN-SUFFIX,bydfi.com,💰bydfi
